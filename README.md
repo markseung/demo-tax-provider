@@ -81,7 +81,7 @@ To get the app running locally, clone the repo with `git clone https://github.co
 
   
 
-- See the [BigCommerce documentation](https://developer.bigcommerce.com/api-docs/providers/tax#sharing-provider-details-with-bigcommerce) for more information.
+- See the [BigCommerce documentation](https://developer.bigcommerce.com/api-docs/providers/tax#sharing-provider-details-with-bigcommerce) for more information. Note: It may take up to 5 days for the tax team to create your configuration on the BC system, so please take this scheduling into account.
 
   
 
