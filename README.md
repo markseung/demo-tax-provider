@@ -7,7 +7,7 @@ This is a demo tax provider built with the [BigCommerce node sample app](https:/
 
   
 
-It currently only implements the [Estimate Taxes](https://developer.bigcommerce.com/api-reference/providers/tax-provider-api/tax-provider/estimate) endpoint. That endpoint is _/api/tax/estimate_. The Void, Commit, and Adjust endpoints may or may not be added in the future.
+It currently only implements the [Estimate Taxes](https://developer.bigcommerce.com/api-reference/providers/tax-provider-api/tax-provider/estimate) endpoint. That endpoint is _/api/tax/estimate_. The Void, Commit, and Adjust endpoints may or may not be added in the future. Keep in mind that these missing endpoints must be implemented for a production ready tax provider app if that is your intent. 
 
   
 
